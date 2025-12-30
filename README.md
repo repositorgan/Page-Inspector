@@ -1,2 +1,5 @@
 # Page-Inspector
-Mozilla Hacking
+
+**Mozilla Hacking**
+
+> Mozilla for developers
